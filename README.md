@@ -7,7 +7,7 @@ Step-2:<br/>
   1.Give the file name and its extension in second entry as specefied.<br/>
   All done.<br/>
 <br/>
------------[Decryption]------------
+-----------[Decryption]------------<br/>
 In Decryption state<br/>
 Step-1:<br/>
   1.select option 2 for decryption of file.<br/>
