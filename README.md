@@ -1,6 +1,6 @@
 # FileEncryption-Decryption
-1. Give the dir path in the address field.(space, space)
-Step-1:
+#1. Give the dir path in the address field.
+#Step-1:
 1. Use the option 1 to Encrypt the file.
 2. Do not give the file name
 Step-2:
